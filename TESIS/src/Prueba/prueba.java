@@ -1,5 +1,5 @@
 package Prueba;
 
 public class prueba {
- private int j;
+ private int j=1;
 }
